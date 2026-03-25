@@ -1,2 +1,20 @@
-# qa-desafio-dio
-O dia a dia de um QA: A prática de testes manuais funcionais
+# QA Desafio DIO
+
+Este repositório contém a documentação e os artefatos do desafio prático da DIO, com foco no dia a dia de um Analista de QA.
+
+## Objetivo
+
+Aplicar na prática conceitos de testes manuais funcionais, incluindo:
+
+- Casos de Teste
+- Testes em BDD
+- Ciclo de vida do bug
+
+## Estrutura do Projeto
+- docs: documentação do projeto
+- testes: casos de teste
+- evidencias: registros e evidências dos testes
+
+## Ferramentas utilizadas
+- Git e GitHub
+- Markdown
