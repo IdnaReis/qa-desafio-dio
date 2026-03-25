@@ -18,3 +18,7 @@ Aplicar na prática conceitos de testes manuais funcionais, incluindo:
 ## Ferramentas utilizadas
 - Git e GitHub
 - Markdown
+
+## 📄 Documentação
+
+A documentação completa do projeto está disponível na pasta `documentos`.
