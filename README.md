@@ -29,3 +29,9 @@ A documentação completa do projeto está disponível na pasta `documentos`.
 ## 🚀 Status do Projeto
 
 Projeto finalizado como parte do desafio prático da DIO.
+
+
+## 👩‍💻 Autora
+
+Idna Reis  
+Em transição para a área de Qualidade de Software (QA)
