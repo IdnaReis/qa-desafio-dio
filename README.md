@@ -10,7 +10,7 @@
 
 Projeto prático desenvolvido como parte do desafio **"O dia a dia de um QA: A prática de testes manuais funcionais"** da Digital Innovation One (DIO).
 
-O objetivo foi aplicar na prática as principais atividades do dia a dia de um Analista de QA, utilizando o site **SauceDemo** (https://www.saucedemo.com) como sistema de testes.
+O objetivo foi aplicar na prática as principais atividades do dia a dia de um Analista de QA, utilizando o site **SauceDemo** (https://www.saucedemo.com) como ambiente de testes.
 
 ---
 
@@ -32,6 +32,7 @@ O objetivo foi aplicar na prática as principais atividades do dia a dia de um A
 | Casos de Teste | 6 casos de teste detalhados | `testes/casos-de-teste.md` |
 | Testes BDD | Cenários em linguagem Gherkin | `testes/bdd.md` |
 | Ciclo de vida do bug | Fluxo e exemplo de registro de bug | `documentos/ciclo-de-vida-bug.md` |
+| Resumo didático | Documento completo do projeto | `documentos/resumo-projeto-qa.docx` |
 | Evidências | Prints dos testes executados | `evidências/` |
 
 ---
@@ -43,12 +44,18 @@ qa-desafio-dio/
 ├── documentos/
 │   ├── user-stories.md
 │   ├── ciclo-de-vida-bug.md
+│   ├── resumo-projeto-qa.docx
 │   └── qa-desafio-dio.pdf
 ├── testes/
 │   ├── casos-de-teste.md
 │   └── bdd.md
 ├── evidências/
-│   └── (prints dos testes)
+│   ├── CT01-login-sucesso.png
+│   ├── CT02-login-invalido.png
+│   ├── CT03-senha-invalida.png
+│   ├── CT04-campos-vazios.png
+│   ├── CT05-usuario-bloqueado.png
+│   └── CT06-logout.png
 └── README.md
 ```
 
@@ -73,5 +80,6 @@ qa-desafio-dio/
 ---
 
 *Projeto desenvolvido como parte da formação em Quality Assurance — DIO, 2026.*
+
 
 
