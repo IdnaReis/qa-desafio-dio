@@ -1,37 +1,77 @@
-# QA Desafio DIO
+# Desafio QA DIO — Testes Manuais Funcionais
 
-Este repositório contém a documentação e os artefatos do desafio prático da DIO, com foco no dia a dia de um Analista de QA.
+![Status](https://img.shields.io/badge/status-concluído-brightgreen)
+![QA](https://img.shields.io/badge/área-Quality%20Assurance-purple)
+![DIO](https://img.shields.io/badge/curso-DIO-orange)
 
-## Objetivo
+---
 
-Aplicar na prática conceitos de testes manuais funcionais, incluindo:
+## Sobre o projeto
 
+Projeto prático desenvolvido como parte do desafio **"O dia a dia de um QA: A prática de testes manuais funcionais"** da Digital Innovation One (DIO).
 
-- Casos de Teste
-- Testes em BDD
-- Ciclo de vida do bug
+O objetivo foi aplicar na prática as principais atividades do dia a dia de um Analista de QA, utilizando o site **SauceDemo** (https://www.saucedemo.com) como sistema de testes.
 
-## Estrutura do Projeto
+---
 
-- documentos: documentação do projeto
-- testes: casos de teste
-- evidencias: registros e evidências dos testes
+## Funcionalidades testadas
 
-## Ferramentas utilizadas
+- Login com credenciais válidas
+- Login com credenciais inválidas
+- Login com campos vazios
+- Login com usuário bloqueado
+- Logout do sistema
+
+---
+
+## Artefatos produzidos
+
+| Artefato | Descrição | Arquivo |
+|---|---|---|
+| User Stories | Histórias de usuário levantadas | `documentos/user-stories.md` |
+| Casos de Teste | 6 casos de teste detalhados | `testes/casos-de-teste.md` |
+| Testes BDD | Cenários em linguagem Gherkin | `testes/bdd.md` |
+| Ciclo de vida do bug | Fluxo e exemplo de registro de bug | `documentos/ciclo-de-vida-bug.md` |
+| Evidências | Prints dos testes executados | `evidências/` |
+
+---
+
+## Estrutura do repositório
+
+```
+qa-desafio-dio/
+├── documentos/
+│   ├── user-stories.md
+│   ├── ciclo-de-vida-bug.md
+│   └── qa-desafio-dio.pdf
+├── testes/
+│   ├── casos-de-teste.md
+│   └── bdd.md
+├── evidências/
+│   └── (prints dos testes)
+└── README.md
+```
+
+---
+
+## Tecnologias e ferramentas
 
 - Git e GitHub
 - Markdown
+- Linguagem Gherkin (BDD)
+- SauceDemo (ambiente de testes)
 
-## 📄 Documentação
+---
 
-A documentação completa do projeto está disponível na pasta `documentos`.
+## Sobre a analista
 
-## 🚀 Status do Projeto
+**Idna Reis** — QA Analyst em formação, com 18 anos de experiência em validação de dados, homologação de sistemas e testes manuais em ambiente real.
 
-Projeto finalizado como parte do desafio prático da DIO.
+- LinkedIn: [linkedin.com/in/idna-reis](https://linkedin.com/in/idna-reis)
+- GitHub: [github.com/IdnaReis](https://github.com/IdnaReis)
+
+---
+
+*Projeto desenvolvido como parte da formação em Quality Assurance — DIO, 2026.*
 
 
-## 👩‍💻 Autora
-
-Idna Reis  
-Em transição para a área de Qualidade de Software (QA)
